@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learning React with fun game making a memory card game
         </a>
       </header>
     </div>
